@@ -1,0 +1,5 @@
+clean
+live
+clean
+Fire
+Water
