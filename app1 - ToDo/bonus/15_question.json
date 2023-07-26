@@ -1,0 +1,29 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "variants": [
+      "Paris",
+      "Lyon",
+      "Marseille"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "variants": [
+      "Berlin",
+      "Hamburg",
+      "Stuttgart"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "variants": [
+      "Rome",
+      "Venice",
+      "Milan"
+    ],
+    "answer": "Rome"
+  }
+]
