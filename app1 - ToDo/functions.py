@@ -4,8 +4,8 @@ FILEPATH = 'files/todos.txt'
 def get_todos(path=FILEPATH) -> list:
     """" Get data from file and return the list"""
     with open(path, 'r') as file:
-        todos_arg = file.readlines()
-    return todos_arg
+        todos_local = file.readlines()
+    return todos_local
 
 
 def write_todos(todos_arg, path=FILEPATH):

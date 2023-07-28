@@ -67,4 +67,9 @@
 #     return cnt_names
 # separate_name('Nikita,Masha,Sasha')
 #################################
-
+# stgg = 'ffffggggfgdfgdfgdf'
+# print(stgg.count('f'))
+#################################
+import time
+now = time.strftime('%Y, %b, %d %H:%M:%S')
+print(now)
