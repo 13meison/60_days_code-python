@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "60-days-code-python"
+version = "0.1.0"
+description = ""
+authors = ["13mei <mamaev.n@promail366.com>"]
+readme = "README.md"
+packages = [{include = "60_days_code_python"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

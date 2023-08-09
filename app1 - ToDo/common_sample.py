@@ -70,6 +70,20 @@
 # stgg = 'ffffggggfgdfgdfgdf'
 # print(stgg.count('f'))
 #################################
-import time
-now = time.strftime('%Y, %b, %d %H:%M:%S')
-print(now)
+# import time
+# now = time.strftime('%Y, %b, %d %H:%M:%S')
+# print(now)
+#################################
+# from unittest.mock import patch
+# import requests
+#
+#
+# def get_req():
+#     response = requests.get('https://www.google.com')
+#     print(response.text)
+#     return response
+# get_req()
+#
+# with patch('__main__.get_req') as mock_get:
+#     mock_get.return_value.text = 100
+#     print(get_req().text)
