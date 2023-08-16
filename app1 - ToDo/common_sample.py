@@ -87,3 +87,18 @@
 # with patch('__main__.get_req') as mock_get:
 #     mock_get.return_value.text = 100
 #     print(get_req().text)
+#################################
+# class NewClass:
+#     def __init__(self, number, multiple):
+#         self.multiple = multiple
+#         self.number = number
+#
+#     def sum(self):
+#         return self.number * self.multiple
+#
+#
+# simple_obj = NewClass(5, 2)
+#
+# print1 = simple_obj.sum()
+# print(print1)
+#################################

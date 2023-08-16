@@ -5,6 +5,9 @@ import functions
 '''
 strong for run
 streamlit run web.py
+
+In that lesson we have additional lesson about deploy to remote host Heroku 
+(programming tool)
 '''
 
 todos = functions.get_todos()
